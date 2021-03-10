@@ -3,7 +3,7 @@ nama = "John Doe"
 #proses mencetak variabel
 print(nama)
 
-#nilai dean tipe data dalam variabel dapat diubah
+#nilai dan tipe data dalam variabel dapat diubah
 umur = 20               #nilai awal
 print(umur)             #mencetak nilai umur
 type(umur)              #mencetak tipe data umur
